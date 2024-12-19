@@ -1,0 +1,204 @@
+{
+    "quiz": [
+        {
+            "question": "What is the formula for the area of a triangle?",
+            "options": {
+                "1": "Length × Breadth",
+                "2": "Base × Height ÷ 2",
+                "3": "π × Radius²",
+                "4": "Side × Side"
+            },
+            "answer": 2
+        },
+        {
+            "question": "What is the formula for the area of a rectangle?",
+            "options": {
+                "1": "Length × Breadth",
+                "2": "Base × Height ÷ 2",
+                "3": "Side × Side",
+                "4": "π × Radius²"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the formula for the area of a circle?",
+            "options": {
+                "1": "π × Radius²",
+                "2": "2 × π × Radius",
+                "3": "Length × Breadth",
+                "4": "Base × Height ÷ 2"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the formula for the area of a square?",
+            "options": {
+                "1": "Side × Side",
+                "2": "Length × Breadth",
+                "3": "Base × Height ÷ 2",
+                "4": "π × Radius²"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the perimeter formula for a rectangle?",
+            "options": {
+                "1": "2 × (Length + Breadth)",
+                "2": "4 × Side",
+                "3": "2 × π × Radius",
+                "4": "Base × Height ÷ 2"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the perimeter formula for a square?",
+            "options": {
+                "1": "4 × Side",
+                "2": "Length + Breadth",
+                "3": "π × Radius²",
+                "4": "Base × Height ÷ 2"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the formula for the circumference of a circle?",
+            "options": {
+                "1": "2 × π × Radius",
+                "2": "π × Radius²",
+                "3": "Length × Breadth",
+                "4": "4 × Side"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the diagonal formula for a rectangle?",
+            "options": {
+                "1": "√(Length² + Breadth²)",
+                "2": "Length + Breadth",
+                "3": "Base × Height ÷ 2",
+                "4": "2 × π × Radius"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the diagonal formula for a square?",
+            "options": {
+                "1": "√2 × Side",
+                "2": "Side × Side",
+                "3": "Length × Breadth",
+                "4": "Base × Height ÷ 2"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the sum of all angles in a triangle?",
+            "options": {
+                "1": "180 degrees",
+                "2": "90 degrees",
+                "3": "360 degrees",
+                "4": "120 degrees"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the property of opposite sides in a rectangle?",
+            "options": {
+                "1": "Equal and parallel",
+                "2": "Not equal",
+                "3": "Intersect at right angles",
+                "4": "None of the above"
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which shape has all sides equal and all angles 90 degrees?",
+            "options": {
+                "1": "Square",
+                "2": "Rectangle",
+                "3": "Triangle",
+                "4": "Circle"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the unique property of a circle?",
+            "options": {
+                "1": "No sides and no corners",
+                "2": "Four equal sides",
+                "3": "Sum of angles is 180 degrees",
+                "4": "Opposite sides are equal"
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which shape has three sides?",
+            "options": {
+                "1": "Triangle",
+                "2": "Square",
+                "3": "Circle",
+                "4": "Rectangle"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the perimeter formula for a triangle?",
+            "options": {
+                "1": "Sum of all sides",
+                "2": "4 × Side",
+                "3": "2 × π × Radius",
+                "4": "Length × Breadth"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the number of sides in a square?",
+            "options": {
+                "1": "4",
+                "2": "3",
+                "3": "1",
+                "4": "2"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the radius in a circle?",
+            "options": {
+                "1": "The distance from the center to any point on the circle",
+                "2": "The total distance around the circle",
+                "3": "The line passing through the center and touching two points on the circle",
+                "4": "The side length of the circle"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the sum of all angles in a rectangle?",
+            "options": {
+                "1": "360 degrees",
+                "2": "90 degrees",
+                "3": "180 degrees",
+                "4": "120 degrees"
+            },
+            "answer": 1
+        },
+        {
+            "question": "Which shape has opposite sides equal and four right angles?",
+            "options": {
+                "1": "Rectangle",
+                "2": "Square",
+                "3": "Triangle",
+                "4": "Circle"
+            },
+            "answer": 1
+        },
+        {
+            "question": "What is the term for the longest side of a right triangle?",
+            "options": {
+                "1": "Hypotenuse",
+                "2": "Base",
+                "3": "Height",
+                "4": "Radius"
+            },
+            "answer": 1
+        }
+    ]
+}
