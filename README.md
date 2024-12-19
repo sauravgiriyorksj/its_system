@@ -8,9 +8,9 @@ This repository contains a **ReactJS frontend** and a **FastAPI backend** for th
 
 ### Frontend (ReactJS)
 
-1. Navigate to the `frontend` folder:
+1. Navigate to the `frontendreact` folder:
    ```bash
-   cd frontend
+   cd frontendreact
    ```
 
 2. Install the dependencies:
@@ -32,9 +32,9 @@ This repository contains a **ReactJS frontend** and a **FastAPI backend** for th
 
 ### Backend (FastAPI)
 
-1. Navigate to the `backend` folder:
+1. Navigate to the `backendfastapi` folder:
    ```bash
-   cd backend
+   cd backendfastapi
    ```
 
 2. Install the dependencies:
@@ -58,8 +58,8 @@ This repository contains a **ReactJS frontend** and a **FastAPI backend** for th
 
 ```
 its_system/
-├── shapes-learning-frontend/   # ReactJS frontend application
-├── shape-learning/    # FastAPI backend application
+├── frontendreact/   # ReactJS frontend application
+├── backendfastapi/    # FastAPI backend application
 └── README.md   # Project documentation
 ```
 
